@@ -45,7 +45,7 @@ if($object->is_login())
 
 </head>
 
-<body class="bg-gradient-primary">
+<body style="background-image: url('./img/restaurant_image.jpg');" class="bg-gradient-primary">
 
     <div class="container">
 
